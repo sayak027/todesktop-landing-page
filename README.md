@@ -47,7 +47,7 @@ src/
 ├── output.css
 ├── script.js
 └── style.css
-
+```
 
 ## 📖 Note
 

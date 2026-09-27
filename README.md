@@ -48,3 +48,7 @@ src/
 ├── script.js
 └── style.css
 
+
+## 📖 Note
+
+This project was created for learning and practice purposes while studying Tailwind CSS.
